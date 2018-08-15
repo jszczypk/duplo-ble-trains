@@ -1,0 +1,17 @@
+VM2108:2 1
+train.js:55 Received Int8Array(5) [5, 0, 5, 1, 6]
+VM2108:2 2
+train.js:55 Received Int8Array(5) [5, 0, 5, 2, 6]
+VM2108:2 3
+train.js:55 Received Int8Array(5) [5, 0, 5, 3, 6]
+VM2108:2 5
+VM2108:2 33
+train.js:55 Received Int8Array(5) [5, 0, 69, 0, 0]
+VM2108:2 34
+train.js:55 Received Int8Array(17) [17, 0, 68, 0, 0, 0, 84, 32, 77, 79, 84, 0, 0, 0, 0, 0, 0]
+VM2108:2 65
+train.js:55 Received Int8Array(10) [10, 0, 71, 0, 0, 0, 0, 0, 0, 0]
+VM2108:2 66
+train.js:55 Received Int8Array(5) [5, 0, 5, 66, 6]
+VM2108:2 97
+train.js:55 Received Int8Array(5) [5, 0, 5, 97, 6]
